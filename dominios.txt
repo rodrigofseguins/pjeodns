@@ -1,1 +1,3 @@
 sso.cloud.pje.jus.br
+pje-office.pje.jus.br
+sso.pdpj.jus.br
